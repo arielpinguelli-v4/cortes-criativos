@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+cortes/
+_fonte/
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
